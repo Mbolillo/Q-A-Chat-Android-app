@@ -1,0 +1,693 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://www.awarenessdays.com/wp-content/uploads/2019/11/iStock-503189000-1-1024x680.jpg",
+      "Name" : "Geography"
+    },
+    "02" : {
+      "Image" : "https://ocw.mit.edu/high-school/mathematics/mathematics.jpg",
+      "Name" : "Math"
+    },
+    "03" : {
+      "Image" : "https://volunteerfingal.ie/wp-content/uploads/elementor/thumbs/History-o8l3oqmm6j6zv2kmfm0dq3ncavzc48uz62y2xjn0co.png",
+      "Name" : "History"
+    },
+    "04" : {
+      "Image" : "https://www.laoistoday.ie/wp-content/uploads/2018/10/Science-640x480.jpg",
+      "Name" : "Science"
+    },
+    "05" : {
+      "Image" : "https://mm.aiircdn.com/350/5d47a904ab36c.jpg",
+      "Name" : "Sports"
+    }
+  },
+  "ChatList" : {
+    "LybDT7qtaTX6pNpuE3XZTqHODmB2" : {
+      "cy984jH2ajRDXt9qZHsiOhAjFPT2" : {
+        "id" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+      },
+      "eMMZ1JfiADbbBDfisuz9EhIVDvQ2" : {
+        "id" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2"
+      }
+    },
+    "cy984jH2ajRDXt9qZHsiOhAjFPT2" : {
+      "LybDT7qtaTX6pNpuE3XZTqHODmB2" : {
+        "id" : "LybDT7qtaTX6pNpuE3XZTqHODmB2"
+      },
+      "eMMZ1JfiADbbBDfisuz9EhIVDvQ2" : {
+        "id" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2"
+      },
+      "jnxacTF6vIUwOXaId57zjHtWhCr1" : {
+        "id" : "jnxacTF6vIUwOXaId57zjHtWhCr1"
+      }
+    },
+    "eMMZ1JfiADbbBDfisuz9EhIVDvQ2" : {
+      "cy984jH2ajRDXt9qZHsiOhAjFPT2" : {
+        "id" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+      }
+    }
+  },
+  "Chats" : {
+    "-M4Q7Xm48lrkcoMPOLyO" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4QZJIpqturvDCMK4zA" : {
+      "message" : "que tal",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4QZspQ7LVz2vqaI0Pj" : {
+      "message" : "bien",
+      "receiver" : "cy984jH2ajRDXt9qZHsiOhAjFPT2",
+      "sender" : "LybDT7qtaTX6pNpuE3XZTqHODmB2"
+    },
+    "-M4TBeMxKEv1zkLuvFV8" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2"
+    },
+    "-M4TBi0Lo3K1i3vb7mxT" : {
+      "message" : "hola",
+      "receiver" : "cy984jH2ajRDXt9qZHsiOhAjFPT2",
+      "sender" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2"
+    },
+    "-M4TRM8IPq3VfMnmlkvV" : {
+      "message" : "yuygi",
+      "receiver" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4TvzIb0cuESZ4tS5C5" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "seenMessage" : false,
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4Tw3wjRqi7CCJm36Ne" : {
+      "message" : "hola",
+      "receiver" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "seenMessage" : false,
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4TwFaUd2R7fI2W1tdB" : {
+      "message" : "hola",
+      "receiver" : "cy984jH2ajRDXt9qZHsiOhAjFPT2",
+      "seenMessage" : false,
+      "sender" : "LybDT7qtaTX6pNpuE3XZTqHODmB2"
+    },
+    "-M4TwIMDfTxQnAfZwvoW" : {
+      "message" : "hola",
+      "receiver" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "seenMessage" : false,
+      "sender" : "LybDT7qtaTX6pNpuE3XZTqHODmB2"
+    },
+    "-M4TxiHtfKVsXkIEkShR" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4YkNBny6-sTj-aLiOx" : {
+      "message" : "ee",
+      "receiver" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4YlJrYlMuI8dqDbsa1" : {
+      "message" : "question tal",
+      "receiver" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4cfhpt_Xeguii__s5A" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4ezo_fj7A9IqEjLPAX" : {
+      "message" : "hiouhjio",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4jzl5RBX56Yi-OLBym" : {
+      "message" : "hoals",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4k04Y6FT6gFTsBfCp6" : {
+      "message" : "holla gil",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4n4JZ38bb7Sgnp2qJ2" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4nFihY00d-NnteOwCU" : {
+      "message" : "hola",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M4nlBt1zaVJAlCnN8WG" : {
+      "message" : "iuhiouhi",
+      "receiver" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M5SLFctcKJnQSkPdmo2" : {
+      "message" : "hola",
+      "receiver" : "jnxacTF6vIUwOXaId57zjHtWhCr1",
+      "sender" : "cy984jH2ajRDXt9qZHsiOhAjFPT2"
+    },
+    "-M5SLrgisZG5OJ57xgxm" : {
+      "message" : "hola",
+      "receiver" : "cy984jH2ajRDXt9qZHsiOhAjFPT2",
+      "sender" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "AnswerA" : "Barcelona",
+      "AnswerB" : "Sevilla",
+      "AnswerC" : "Madrid",
+      "AnswerD" : "Granada",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Madrid",
+      "IsImageQuestion" : "false",
+      "Question" : "What is capital of Spain?"
+    },
+    "02" : {
+      "AnswerA" : "Spain",
+      "AnswerB" : "France",
+      "AnswerC" : "Germany",
+      "AnswerD" : "Italy",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Spain",
+      "IsImageQuestion" : "true",
+      "Question" : "https://stuffedeyes.files.wordpress.com/2018/06/spain-2906824_960_720.png?w=748"
+    },
+    "03" : {
+      "AnswerA" : "Loire River",
+      "AnswerB" : "Seine River",
+      "AnswerC" : "Garonne River",
+      "AnswerD" : "Rhine River",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Seine River",
+      "IsImageQuestion" : "false",
+      "Question" : "Which river flows through Paris?"
+    },
+    "04" : {
+      "AnswerA" : "Mount Apiata",
+      "AnswerB" : "Mount Pico",
+      "AnswerC" : "Mount Etna",
+      "AnswerD" : "Mount Elbrus",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Mount Elbrus",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the highest active volcano in Europe?"
+    },
+    "05" : {
+      "AnswerA" : "Chile",
+      "AnswerB" : "Paraguay",
+      "AnswerC" : "Brazil",
+      "AnswerD" : "Venezuela",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Brazil",
+      "IsImageQuestion" : "false",
+      "Question" : "Which South American country has land borders with ten other countries?"
+    },
+    "06" : {
+      "AnswerA" : "Hong Kong",
+      "AnswerB" : "China",
+      "AnswerC" : "Vietnam",
+      "AnswerD" : "Lebanon",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Vietnam",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn.britannica.com/41/4041-004-A06CBD63/Flag-Vietnam.jpg"
+    },
+    "07" : {
+      "AnswerA" : "Hungary",
+      "AnswerB" : "Italy",
+      "AnswerC" : "Bulgaria",
+      "AnswerD" : "Belarus",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Hungary",
+      "IsImageQuestion" : "true",
+      "Question" : "https://www.graphicmaps.com/r/w1047/images/flags/hu-flag.jpg"
+    },
+    "08" : {
+      "AnswerA" : "Georgia",
+      "AnswerB" : "Uzbekistan",
+      "AnswerC" : "Armenia",
+      "AnswerD" : "Azerbaijan",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Azerbaijan",
+      "IsImageQuestion" : "false",
+      "Question" : "Baku is the capital city of which eastern European country?"
+    },
+    "09" : {
+      "AnswerA" : "8",
+      "AnswerB" : "10",
+      "AnswerC" : "14",
+      "AnswerD" : "15",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "14",
+      "IsImageQuestion" : "false",
+      "Question" : "How many countries border China?"
+    },
+    "10" : {
+      "AnswerA" : "Norway",
+      "AnswerB" : "Peru",
+      "AnswerC" : "Venezuela",
+      "AnswerD" : "South Africa",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Venezuela",
+      "IsImageQuestion" : "false",
+      "Question" : "In which country is the worlds highest waterfall?"
+	},
+	"11" : {
+      "AnswerA" : "2",
+      "AnswerB" : "3",
+      "AnswerC" : "4",
+      "AnswerD" : "No diagonals",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "2",
+      "IsImageQuestion" : "false",
+      "Question" : "How many diagonals are there in a quadrilateral?"
+    },
+    "12" : {
+      "AnswerA" : "25",
+      "AnswerB" : "6",
+      "AnswerC" : "28",
+      "AnswerD" : "7",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "25",
+      "IsImageQuestion" : "false",
+      "Question" : "Solve : 24 + 4 ÷ 4"
+    },
+    "13" : {
+      "AnswerA" : "766",
+      "AnswerB" : "216",
+      "AnswerC" : "316",
+      "AnswerD" : "372",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "216",
+      "IsImageQuestion" : "false",
+      "Question" : "Find the product of 72 × 3"
+    },
+    "14" : {
+      "AnswerA" : "7",
+      "AnswerB" : "3",
+      "AnswerC" : "2",
+      "AnswerD" : "5",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "2",
+      "IsImageQuestion" : "false",
+      "Question" : "If a number has an even number or zero at its unit place; the number is always divisible by ..."
+    },
+    "15" : {
+      "AnswerA" : "103",
+      "AnswerB" : "87",
+      "AnswerC" : "129",
+      "AnswerD" : "119",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "119",
+      "IsImageQuestion" : "false",
+      "Question" : "How much is 190 – 87 + 16?"
+    },
+    "16" : {
+      "AnswerA" : "1.6 hours",
+      "AnswerB" : "1 hour",
+      "AnswerC" : "1.3 hours",
+      "AnswerD" : "1.5 hours",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "1.5 hours",
+      "IsImageQuestion" : "false",
+      "Question" : "How many hours in 90 minutes?"
+    },
+    "17" : {
+      "AnswerA" : "None of these",
+      "AnswerB" : "Only Unit",
+      "AnswerC" : "Cubic Units",
+      "AnswerD" : "Square Units",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Cubic Units",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the unit of volume?"
+    },
+    "18" : {
+      "AnswerA" : "1, 5, 12, 18",
+      "AnswerB" : "2, 3, 4, 6, 8",
+      "AnswerC" : "4, 7, 24",
+      "AnswerD" : "3, 9, 12",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "2, 3, 4, 6, 8",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these following set of numbers are factors of 24?"
+    },
+    "19" : {
+      "AnswerA" : "-1",
+      "AnswerB" : "1",
+      "AnswerC" : "0",
+      "AnswerD" : "None of these",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "1",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the value of a^0?"
+    },
+    "20" : {
+      "AnswerA" : "1",
+      "AnswerB" : "13",
+      "AnswerC" : "169",
+      "AnswerD" : "338",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "13",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the value of x if x2 = 169"
+    },
+    "21" : {
+      "AnswerA" : "100",
+      "AnswerB" : "99",
+      "AnswerC" : "116",
+      "AnswerD" : "101",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "116",
+      "IsImageQuestion" : "false",
+      "Question" : "How many years did the 'One Hundred Years War' last?"
+    },
+    "22" : {
+      "AnswerA" : "6",
+      "AnswerB" : "7",
+      "AnswerC" : "8",
+      "AnswerD" : "9",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "8",
+      "IsImageQuestion" : "false",
+      "Question" : "How many days were there in one week in ancient Roman times?"
+    },
+    "23" : {
+      "AnswerA" : "Fathers for Justice",
+      "AnswerB" : "The Police",
+      "AnswerC" : "The Boy Scout",
+      "AnswerD" : "The Red Cross",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "The Red Cross",
+      "IsImageQuestion" : "false",
+      "Question" : "Which organisation was awarded the Nobel Peace Prize in 1917?"
+    },
+    "24" : {
+      "AnswerA" : "Columbus",
+      "AnswerB" : "Marco Polo",
+      "AnswerC" : "Juan Sebastian Elcano",
+      "AnswerD" : "Ferdinand Magellan",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Juan Sebastian Elcano",
+      "IsImageQuestion" : "false",
+      "Question" : "Which explorer was the first to circumnavigate the globe?"
+    },
+    "25" : {
+      "AnswerA" : "Sweeden",
+      "AnswerB" : "Denmark",
+      "AnswerC" : "Iceland",
+      "AnswerD" : "Russia",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Denmark",
+      "IsImageQuestion" : "false",
+      "Question" : "Of which country was Greenland a colony until 1981?"
+    },
+    "26" : {
+      "AnswerA" : "Hula Hoop",
+      "AnswerB" : "Spitfire",
+      "AnswerC" : "Bikini",
+      "AnswerD" : "Matchbox",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Bikini",
+      "IsImageQuestion" : "false",
+      "Question" : "What was named after a hydrogen bomb test?"
+    },
+    "27" : {
+      "AnswerA" : "Rome",
+      "AnswerB" : "Babylon",
+      "AnswerC" : "Athens",
+      "AnswerD" : "Alexandria",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Babylon",
+      "IsImageQuestion" : "false",
+      "Question" : "One of the ancient world wonders, the 'Hanging Gardens', was found in which city?"
+    },
+    "28" : {
+      "AnswerA" : "Afganistan",
+      "AnswerB" : "Irak",
+      "AnswerC" : "China",
+      "AnswerD" : "Iran",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Afganistan",
+      "IsImageQuestion" : "false",
+      "Question" : "Which country did the USSR invade in 1979?"
+    },
+    "29" : {
+      "AnswerA" : "1962",
+      "AnswerB" : "1960",
+      "AnswerC" : "1963",
+      "AnswerD" : "1968",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "1963",
+      "IsImageQuestion" : "false",
+      "Question" : "In which year was JFK assassinated?"
+    },
+    "30" : {
+      "AnswerA" : "Gold",
+      "AnswerB" : "Potassium",
+      "AnswerC" : "Manganese",
+      "AnswerD" : "Carbon",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Gold",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these chemical elements is heavier than iron?"
+    },
+    "31" : {
+      "AnswerA" : "Isaac Newton",
+      "AnswerB" : "Thomas Edison",
+      "AnswerC" : "Graham Bell",
+      "AnswerD" : "Nikola Tesla",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Nikola Tesla",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn.historycollection.co/wp-content/uploads/2018/10/Poly-pic-8-Wiki.jpg"
+    },
+    "32" : {
+      "AnswerA" : "Impaction",
+      "AnswerB" : "Reaction",
+      "AnswerC" : "Distraction",
+      "AnswerD" : "Subtraction",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Reaction",
+      "IsImageQuestion" : "false",
+      "Question" : "In physics, for every action there is an equal and opposite what?"
+    },
+    "33" : {
+      "AnswerA" : "Telephone",
+      "AnswerB" : "Telegraph",
+      "AnswerC" : "Telescope",
+      "AnswerD" : "Teletype",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Telescope",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the following technological developments came first?"
+    },
+    "34" : {
+      "AnswerA" : "Aster",
+      "AnswerB" : "Abacus",
+      "AnswerC" : "Acanthus",
+      "AnswerD" : "Acacia",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Abacus",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of these is not a kind of plant?"
+    },
+    "35" : {
+      "AnswerA" : "Mars",
+      "AnswerB" : "Saturn",
+      "AnswerC" : "Jupiter",
+      "AnswerD" : "Uranus",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Saturn",
+      "IsImageQuestion" : "true",
+      "Question" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/1200px-Saturn_during_Equinox.jpg"
+    },
+    "36" : {
+      "AnswerA" : "Terrestrial Planet",
+      "AnswerB" : "Asteroid",
+      "AnswerC" : "Kuiper Belt Object",
+      "AnswerD" : "Gas Giant",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Kuiper Belt Object",
+      "IsImageQuestion" : "false",
+      "Question" : "Pluto is what kind of solar system object?"
+    },
+    "37" : {
+      "AnswerA" : "Agricultural Expansion",
+      "AnswerB" : "Mining",
+      "AnswerC" : "Hydroelectric Development",
+      "AnswerD" : "Logging",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "Hydroelectric Development",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the following is not a major cause of deforestation?"
+    },
+    "38" : {
+      "AnswerA" : "HNO3",
+      "AnswerB" : "CH4",
+      "AnswerC" : "CO2",
+      "AnswerD" : "NH3",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "NH3",
+      "IsImageQuestion" : "true",
+      "Question" : "https://sc01.alicdn.com/kf/UTB8f1JCiKvJXKJkSajhq6A7aFXau/ammonia-solution.jpg_640x640.jpg"
+    },
+    "39" : {
+      "AnswerA" : "34%",
+      "AnswerB" : "97%",
+      "AnswerC" : "71%",
+      "AnswerD" : "47%",
+      "CategoryId" : "04",
+      "CorrectAnswer" : "71%",
+      "IsImageQuestion" : "false",
+      "Question" : "How much of Earth’s surface is covered by ocean?"
+    },
+    "40" : {
+      "AnswerA" : "Floorball",
+      "AnswerB" : "Hockey",
+      "AnswerC" : "Tennis",
+      "AnswerD" : "Bossaball",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Floorball",
+      "IsImageQuestion" : "true",
+      "Question" : "https://enacademic.com/pictures/enwiki/70/Floorball_game.jpg"
+    },
+    "41" : {
+      "AnswerA" : "Wimbledon",
+      "AnswerB" : "Australian Open",
+      "AnswerC" : "French Open",
+      "AnswerD" : "U.S Open",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Wimbledon",
+      "IsImageQuestion" : "false",
+      "Question" : "Which of the Grand Slam tournaments is played on grass courts?"
+    },
+    "42" : {
+      "AnswerA" : "Sumo Wrestling",
+      "AnswerB" : "Ping Pong",
+      "AnswerC" : "Rhythmic gymnastics",
+      "AnswerD" : "Badminton",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Sumo Wrestling",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the national sport in Japan?"
+    },
+    "43" : {
+      "AnswerA" : "Tennis",
+      "AnswerB" : "Badminton",
+      "AnswerC" : "Criket",
+      "AnswerD" : "Squash",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Badminton",
+      "IsImageQuestion" : "true",
+      "Question" : "https://upload.wikimedia.org/wikipedia/commons/7/77/Badmintonpan.jpg"
+    },
+    "44" : {
+      "AnswerA" : "100 metres",
+      "AnswerB" : "50 metres",
+      "AnswerC" : "35 metres",
+      "AnswerD" : "25 metres",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "50 metres",
+      "IsImageQuestion" : "false",
+      "Question" : "How long is an Olympic swimming pool?"
+    },
+    "45" : {
+      "AnswerA" : "Basketball",
+      "AnswerB" : "Football",
+      "AnswerC" : "F1",
+      "AnswerD" : "Tennis",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Tennis",
+      "IsImageQuestion" : "false",
+      "Question" : "In which sport can you win the Davis Cup?"
+    },
+    "46" : {
+      "AnswerA" : "Camp Nou",
+      "AnswerB" : "Vicente Calderon",
+      "AnswerC" : "Aviva Stadium",
+      "AnswerD" : "Allianz Arena",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Camp Nou",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of the Barcelona football stadium?"
+    },
+    "47" : {
+      "AnswerA" : "Anthony Davis",
+      "AnswerB" : "Pau Gasol",
+      "AnswerC" : "Larry Bird",
+      "AnswerD" : "Pele",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "Larry Bird",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn.theathletic.com/app/uploads/2020/01/08144314/Larry-Bird-e1578549702140-1024x683.jpg"
+    },
+    "48" : {
+      "AnswerA" : "5",
+      "AnswerB" : "3",
+      "AnswerC" : "8",
+      "AnswerD" : "7",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "7",
+      "IsImageQuestion" : "false",
+      "Question" : "How many times has Michael Schumacher been a Formula 1 champion?"
+    },
+    "49" : {
+      "AnswerA" : "6",
+      "AnswerB" : "0",
+      "AnswerC" : "3",
+      "AnswerD" : "1",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "1",
+      "IsImageQuestion" : "false",
+      "Question" : "How matches did Mohammed Ali lose in his career?"
+    },
+    "50" : {
+      "AnswerA" : "4",
+      "AnswerB" : "8",
+      "AnswerC" : "5",
+      "AnswerD" : "6",
+      "CategoryId" : "05",
+      "CorrectAnswer" : "6",
+      "IsImageQuestion" : "false",
+      "Question" : "How many players has a hockey team got on the ice?"
+    }
+  },
+  "Users" : {
+    "LybDT7qtaTX6pNpuE3XZTqHODmB2" : {
+      "email" : "willy@gmail.com",
+      "id" : "LybDT7qtaTX6pNpuE3XZTqHODmB2",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/questionsandanswerschat.appspot.com/o/uploads%2F1586463223467png?alt=media&token=c053dd91-7d0c-4387-9438-1299675b0f49",
+      "username" : "willy"
+    },
+    "cy984jH2ajRDXt9qZHsiOhAjFPT2" : {
+      "id" : "cy984jH2ajRDXt9qZHsiOhAjFPT2",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/questionsandanswerschat.appspot.com/o/uploads%2F1587586100331jpg?alt=media&token=a3108727-0cf2-4fda-9c4f-ca541b69b604",
+      "username" : "Miguel"
+    },
+    "eMMZ1JfiADbbBDfisuz9EhIVDvQ2" : {
+      "email" : "pepe@gmail.com",
+      "id" : "eMMZ1JfiADbbBDfisuz9EhIVDvQ2",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/questionsandanswerschat.appspot.com/o/uploads%2F1587482929996jpg?alt=media&token=18e4db7e-79d6-415d-bb90-6e1e71c51533",
+      "username" : "pepe"
+    },
+    "jnxacTF6vIUwOXaId57zjHtWhCr1" : {
+      "email" : "miguelbolillo.mb@gmail.com",
+      "id" : "jnxacTF6vIUwOXaId57zjHtWhCr1",
+      "imageUrl" : "default",
+      "username" : "Miguel"
+    }
+  }
+}

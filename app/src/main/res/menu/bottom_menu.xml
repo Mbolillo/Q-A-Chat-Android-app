@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/categories"
+        android:enabled="true"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_categories_24dp"
+        android:iconTint="@color/design_default_color_background"
+        android:title="@string/ic_categories" />
+
+    <item
+        android:id="@+id/chat"
+        android:enabled="true"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:iconTint="@color/design_default_color_background"
+        android:title="@string/ic_chat" />
+
+
+
+</menu>

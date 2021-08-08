@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PaymentDetails"
+    android:background="@drawable/background">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:cardElevation="4dp"
+        android:layout_margin="30dp"
+        >
+
+    <TextView
+        android:id="@+id/txtId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Id"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/txtStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Status"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:id="@+id/txtAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Quantity"
+        android:gravity="center"
+        android:layout_marginTop="60dp"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thank you for cooperating!"
+        android:textColor="@color/White"
+        android:gravity="center"
+        android:layout_marginTop="70dp"
+        android:textSize="40sp"
+        />
+
+    <Button
+        android:id="@+id/bt_backToGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back to Game"
+        android:layout_margin="100dp"
+        android:textColor="@color/White"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:background="@drawable/borders"
+        android:textStyle="bold"
+    />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277039402006",
+    "firebase_url": "https://questionsandanswerschat.firebaseio.com",
+    "project_id": "questionsandanswerschat",
+    "storage_bucket": "questionsandanswerschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277039402006:android:e096d75d4649bd7cba3937",
+        "android_client_info": {
+          "package_name": "com.example.questionsandanswerschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277039402006-ahi1f916un34hckelgks42n1467hhqi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questionsandanswerschat",
+            "certificate_hash": "30a2e6ceb97676bf6ead87fc378ff3abfaf80b1d"
+          }
+        },
+        {
+          "client_id": "277039402006-3ff8bkuqvkalfi8g9uu9mm4cndnjj8uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_4fiBzRjB5pYNzUvOmcutmjyAJXDpuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277039402006-3ff8bkuqvkalfi8g9uu9mm4cndnjj8uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

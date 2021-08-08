@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuestionsAndAnswersChat</string>
+    <string name="et_username">Username</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="bt_register">Register</string>
+    <string name="bt_login">Login</string>
+    <string name="tv_login">Already a member? Click here</string>
+    <string name="tv_register">No account yet? Click here</string>
+    <string name="bt_chat">Chat</string>
+    <string name="et_resetEmail">Email Address</string>
+    <string name="bt_resetEmail">Reset Email</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ic_categories">Categories</string>
+    <string name="ic_ranking">Ranking</string>
+    <string name="ic_chat">Chat</string>
+    <string name="category_name">Category Name</string>
+    <string name="logo">LOGO</string>
+    <string name="score">Score</string>
+    <string name="you_will_receive_an_email_after_clicking_reset">You will receive an email after clicking RESET</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject:</string>
+
+
+</resources>
