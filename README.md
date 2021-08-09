@@ -1,0 +1,1 @@
+The software development method I’m using while developing the add is the “Waterfall Model” following a linear flow with a specified sequence (Requirement gathering and Analysis, System Design, Implementation, Testing, Deploying System and Maintenance) which allows me easy testing and analysis performance
